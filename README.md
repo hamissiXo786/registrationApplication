@@ -1,3 +1,4 @@
+This is a an application portal built using the Flutter framework and Dart these are a list of some of the features
 User Registration and Sign-Up:
 
 Users can create an account by providing necessary personal information.
