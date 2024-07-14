@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457562477408",
+    "project_id": "astechnology-50923",
+    "storage_bucket": "astechnology-50923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457562477408:android:ee405f7e705772c0f2c405",
+        "android_client_info": {
+          "package_name": "com.mycompany.astechologyapplicationform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwU9bE7f7u1ue_itw6uly8HQNlpHyHjOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
